@@ -1,14 +1,16 @@
 
 .contact{
     background-color: #01010186;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 h1.hire__text {
-    font-size: 60px;
+    font-size: 70px;
     text-align: center;
 }
 p.hire__text{
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 30px;
     color: rgba(29,29,36,.75);
     font-weight: 400;
@@ -43,7 +45,7 @@ textarea#message{
     width: 100%;
     line-height: 46px;
     color: #fff;
-    font-size: 15px;
+    font-size: 18px;
     letter-spacing: .1px;
     border: 2px solid hsla(0,0%,100%,.2);
 }

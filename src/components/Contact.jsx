@@ -21,7 +21,7 @@ function Contact() {
                             <strong>lokesh15mca@gmail.com</strong>
                         </p>
                         <div style={{marginLeft:"40%"}}>
-                        <a href="https://github.com/lokesh15mca">
+                        <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://github.com/lokesh15mca">
                             <img
                                 src={gitlogo}
                                 alt="no-img"
@@ -29,7 +29,7 @@ function Contact() {
                                 style={{ height: "40px" }}
                             />
                         </a>
-                        <a href="https://www.linkedin.com/in/lokesh-singh-4bb1b6126/">
+                        <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://www.linkedin.com/in/lokesh-singh-4bb1b6126/">
                             <img
                                 src={linkdin}
                                 alt=""

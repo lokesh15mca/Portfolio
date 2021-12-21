@@ -58,9 +58,10 @@ p{
 .pxy__30{
   padding: 30px;
 }
-.container{
+.container1{
   width: 92%;
   margin: 0px auto;
+  padding-bottom: 90px;
 }
 .pz__10{
   padding: 10px 0px;
@@ -92,7 +93,7 @@ p{
   margin-top: 20px;
 }
 .component__space{
-  padding: 100px 0px;
+  padding: 10px 0px;
 }
 .pointer{
   cursor: pointer;

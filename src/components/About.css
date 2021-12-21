@@ -1,6 +1,8 @@
 
 .about{
     background: #191919;
+    padding-top: 10%;
+    padding-bottom: 7%;
 }
 img.about__img{
     border-radius: 10px;
@@ -41,10 +43,13 @@ a.bottom__to__top{
 a.bottom__to__top.active{
     display: flex;
 }
+.p__color{
+    font-size: 20px!important;
+}
 /* RESPONSIVE */
 @media only screen and (max-width: 1024px){
     .p__color{
-        font-size: 15px!important;
+        font-size: 18px!important;
     }
 }
 @media only screen and (max-width: 425px){
