@@ -39,7 +39,7 @@ function Project() {
                 </a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="https://github.com/Mangeshbk/Premier-League-clone">
+                <a target="_blank" rel = "noopener noreferrer" href="https://cloning-premierleague.netlify.app/">
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
@@ -49,7 +49,7 @@ function Project() {
                                 <h6>Premier-League-clone</h6>
                                 <p>Premier League website is basically a popular website which is mainly known by scoccer player and their all deatils of live matches and scores which is genrated time to time in that website.</p>
                                 <div className='buttonAncher'>
-                                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://github.com/Mangeshbk/Premier-League-clone" className="project__btn">View Details</a>
+                                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://cloning-premierleague.netlify.app/" className="project__btn">View Details</a>
                                 </div>
                             </div>
                             
