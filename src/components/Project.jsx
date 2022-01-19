@@ -20,7 +20,7 @@ function Project() {
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="https://github.com/suvamAdhikary/Capdas-ECommerce">
+                <a target="_blank" rel = "noopener noreferrer" href="https://capdas-suvamadhikary.vercel.app/signup">
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
@@ -58,7 +58,7 @@ function Project() {
                 </a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="https://github.com/vinayak-pk/Optimizely-clone">
+                <a target="_blank" rel = "noopener noreferrer" href="https://op-clone.vercel.app/">
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
