@@ -21,6 +21,76 @@ function Project() {
 
     {/* Company project  */}
 
+
+
+    <div id="cards_landscape_wrap-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a target="_blank" rel = "noopener noreferrer" href="https://capdas-suvamadhikary.vercel.app">
+                    <div class="card-flyer">
+                        <div class="text-box">
+                            <div class="image-box">
+                                <img src={Project1} alt="" />
+                            </div>
+                            <div class="text-container">
+                                <h6>Hello Ujjivan Mobile App</h6>
+                                <p>The official Voice Guided
+Android mobile banking application of Ujjivan Small Finance Bank is
+India's 1st voice and visual-assisted vernacular banking app.</p>
+<p>Features: End to End Voice Guidance throughout the App. Manage your own fund transfer limit. Loan EMI Repayments. Flexibility to download, view or e-mail your e-statement and Refer Someone Option</p>
+                                <div className='buttonAncher'>
+                                {/* <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://capdas-suvamadhikary.vercel.app" className="project__btn">View Details</a> */}
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a target="_blank" rel = "noopener noreferrer" href="https://cloning-premierleague.netlify.app/">
+                    <div class="card-flyer">
+                        <div class="text-box">
+                            <div class="image-box">
+                                <img src={Project2} alt="" />
+                            </div>
+                            <div class="text-container">                                    
+                                <h6>PLANET by L&T Finance</h6>
+                                <p>PLANET by L&T Finance stands for Personalized Lending & Assisted NETworks of you, our valued customer, helping enable your aspirations. PLANET App is one of the highest-rated finance Apps on Google Play Store and Apple App Store with a score of 4.3. The App’s success can be attributed to its simplicity, comprehensive features, and commitment to customer satisfaction.</p>
+                                <div className='buttonAncher'>
+                                {/* <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://cloning-premierleague.netlify.app/" className="project__btn">View Details</a> */}
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a target="_blank" rel = "noopener noreferrer" href="https://op-clone.vercel.app/">
+                    <div class="card-flyer">
+                        <div class="text-box">
+                            <div class="image-box">
+                                <img src={opt} alt="" />
+                            </div>
+
+                            <div class="text-container">
+                                <h6>Internat Banking and Mobile Banking (IBMB)</h6>
+                               <p>All Ujjivan banking services are now a few clicks away with our Personal Net Banking services. Access your Savings Account and Deposits, transfer funds through IFT (Within Ujjivan fund transfer), IMPS, NEFT and RTGS, track your transactions and carry out almost all other operations that you may require from the convenience of your home.</p>
+                               <div className='buttonAncher'>
+                            {/* <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://op-clone.vercel.app/" className="project__btn">View Details</a> */}
+                            </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
     <div id="cards_landscape_wrap-2">
     <div class="container">
         <div class="row">

@@ -1,0 +1,25 @@
+.project1{
+    background-color:#7d777762;
+    /* padding-bottom: 3%; */
+}
+ #imgSlider, #sliderimg{
+    text-align: center;
+    max-width: 100% !important; 
+    max-height: 100%;
+    /* margin-bottom: ; */
+}
+.heading{
+    text-align: center;
+}
+.img__size{
+    height: 380px;
+}
+.title1{
+    font-weight: 600;
+    /* text-align: start; */
+    font-family: Montserrat,sans-serif;
+    font-size: 40px;
+}
+#temp{
+  max-width: 100%;
+}

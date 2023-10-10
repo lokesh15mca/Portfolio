@@ -1,6 +1,7 @@
 
 import './App.css';
 import About from './components/About';
+import  Certificates  from './components/Certificates';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Home from './components/Home';
@@ -18,6 +19,7 @@ function App() {
       <About />
       <Project />
       <Skill />
+      <Certificates />
       <Contact />
       <Footer />
       {/* <Testing /> */}

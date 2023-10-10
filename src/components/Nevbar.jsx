@@ -6,9 +6,7 @@ export const Nevbar = () => {
     function collapseNav(){
         
         var nav = $("nav");
-        // alert("hello-----")
         if(nav.find(".collapse").hasClass("show")) {
-            // alert("hello")
           nav.find(".navbar-toggle").trigger('click')
         }
       }
@@ -49,15 +47,17 @@ export const Nevbar = () => {
                 </a>
             </li>
             <li class="nav-item">
+                <a href="#Certificates" class="nav-link" style={{color:"white", fontSize: "20px", fontWeight: "400"}}>
+                Certificates
+                </a>
+            </li>
+            <li class="nav-item">
                 <a href="#Contact" class="nav-link" style={{color:"white", fontSize: "20px", fontWeight: "400"}}>
                     Contact
                 </a>
             </li>
         </ul>
         </div>
-
-
-
     </div>
     </nav> 
         </div>
