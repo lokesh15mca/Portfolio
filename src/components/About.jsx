@@ -17,7 +17,7 @@ function About() {
               </p>
               
               <div className="about__button d__flex align__items__center">
-                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://drive.google.com/file/d/10bInUNuas_F2lXQeSlkwZ2mCkCCfiN7H/view?usp=sharing">
+                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://drive.google.com/file/d/1kCU3iXClhmqqZV4aWFG6pAHoTicjEm1M/view?usp=sharing">
                   <button className="about btn pointer">Resume</button>
                 </a>
               </div>
