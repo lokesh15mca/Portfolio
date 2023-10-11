@@ -40,7 +40,7 @@ Android mobile banking application of Ujjivan Small Finance Bank is
 India's 1st voice and visual-assisted vernacular banking app.</p>
 <p>Features: End to End Voice Guidance throughout the App. Manage your own fund transfer limit. Loan EMI Repayments. Flexibility to download, view or e-mail your e-statement and Refer Someone Option</p>
                                 <div className='buttonAncher'>
-                                {/* <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://capdas-suvamadhikary.vercel.app" className="project__btn">View Details</a> */}
+                                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://capdas-suvamadhikary.vercel.app" className="project__btn">View Details</a>
                                 </div>
                             </div>
                             
