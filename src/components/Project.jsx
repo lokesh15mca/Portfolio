@@ -8,7 +8,9 @@ import opt from '../Img/opt-page.png'
 import Alriyadah from '../Img/Alriyadah1.PNG'
 import Addroitte from '../Img/Addroitte.jpg'
 import Addroitteweb from '../Img/Addroitteweb.jpg'
-
+import VVV from '../Img/VVV.jpg'
+import planet from '../Img/planet.png'
+import IBMB from '../Img/IBMB.png'
 function Project() {
   return (
     <div className="project component__space" id="Project">
@@ -27,12 +29,12 @@ function Project() {
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href=""> 
+                {/* <a target="_blank" rel = "noopener noreferrer" href="">  */}
                 {/* https://capdas-suvamadhikary.vercel.app */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
-                                <img src={Project1} alt="" />
+                                <img src={VVV} alt="" />
                             </div>
                             <div class="text-container">
                                 <h6>Hello Ujjivan Mobile App</h6>
@@ -47,15 +49,15 @@ India's 1st voice and visual-assisted vernacular banking app.</p>
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     {/* https://cloning-premierleague.netlify.app/ */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
-                                <img src={Project2} alt="" />
+                                <img src={planet} alt="" />
                             </div>
                             <div class="text-container">                                    
                                 <h6>PLANET by L&T Finance</h6>
@@ -67,15 +69,15 @@ India's 1st voice and visual-assisted vernacular banking app.</p>
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     {/* https://op-clone.vercel.app/ */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
-                                <img src={opt} alt="" />
+                                <img src={IBMB} alt="" />
                             </div>
 
                             <div class="text-container">
@@ -88,7 +90,7 @@ India's 1st voice and visual-assisted vernacular banking app.</p>
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
         </div>
     </div>
@@ -98,7 +100,7 @@ India's 1st voice and visual-assisted vernacular banking app.</p>
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
@@ -117,10 +119,10 @@ accordance with the highest international standards,</p>
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     {/* https://cloning-premierleague.netlify.app/ */}
                     <div class="card-flyer">
                         <div class="text-box">
@@ -141,10 +143,10 @@ website for the Institute and Company to post the courses and Internship or job.
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     {/* https://op-clone.vercel.app/ */}
                     <div class="card-flyer">
                         <div class="text-box">
@@ -166,7 +168,7 @@ Mobile App for students to access in mobile and apply for courses and internship
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
         </div>
     </div>
@@ -180,25 +182,15 @@ Mobile App for students to access in mobile and apply for courses and internship
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
                                 <img src={Project1} alt="" />
                             </div>
                             <div class="text-container">
-                                <h6>Ujjivan Small Finance Bank</h6>
-                                <p>Hello Ujjivan App (VVV, HHD, IBMB, Admin) The official Voice Guided
-Android mobile banking application of Ujjivan Small Finance Bank is
-India's 1st voice and visual-assisted vernacular banking app.
-Features:
-End to End Voice Guidance throughout the App.
-Manage your own fund transfer limit
-Loan EMI Repayments
-Areas of responsibility:
-Implemented Loan Acknowledgement flow ,
-Implemented Pre-login flow end to end
-Tech Stack:- HTML, CSS, Jquery, ES6, JavaScript</p>
+                                <h6>Capdas-Ecommerce</h6>
+                                <p>Capdas is our self designed and developed mobile website which provides sustainable clothing store providing platform for national seller and tailors to provide their services online.</p>
                                 {/* <div className='buttonAncher'>
                                 <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://capdas-suvamadhikary.vercel.app" className="project__btn">View Details</a>
                                 </div> */}
@@ -206,10 +198,10 @@ Tech Stack:- HTML, CSS, Jquery, ES6, JavaScript</p>
                             
                         </div>
                     </div>
-                </a>
+                {/* </a> */}
             </div>
-            {/* <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
@@ -218,17 +210,17 @@ Tech Stack:- HTML, CSS, Jquery, ES6, JavaScript</p>
                             <div class="text-container">                                    
                                 <h6>Premier-League-clone</h6>
                                 <p>Premier League website is basically a popular website which is mainly known by scoccer player and their all deatils of live matches and scores which is genrated time to time in that website.</p>
-                                 <div className='buttonAncher'>
+                                {/* <div className='buttonAncher'>
                                 <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://cloning-premierleague.netlify.app/" className="project__btn">View Details</a>
-                                </div> 
+                                </div> */}
                             </div>
                             
                         </div>
                     </div>
-                </a>
-            </div> */}
-            {/* <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a target="_blank" rel = "noopener noreferrer" href="">
+                {/* </a> */}
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                {/* <a target="_blank" rel = "noopener noreferrer" href=""> */}
                     <div class="card-flyer">
                         <div class="text-box">
                             <div class="image-box">
@@ -238,15 +230,15 @@ Tech Stack:- HTML, CSS, Jquery, ES6, JavaScript</p>
                             <div class="text-container">
                                 <h6>Clone of optimizely</h6>
                                <p>Optimizely is an American company that provides A/B testing and multivariate testing tools, website personalization, and feature toggle capabilities, as well as web content management and digital commerce.</p>
-                                <div className='buttonAncher'>
+                               {/* <div className='buttonAncher'>
                             <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://op-clone.vercel.app/" className="project__btn">View Details</a>
-                            </div> 
+                            </div> */}
                             </div>
                             
                         </div>
                     </div>
-                </a>
-            </div> */}
+                {/* </a> */}
+            </div>
         </div>
     </div>
 </div>
