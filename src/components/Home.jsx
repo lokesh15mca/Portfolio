@@ -14,7 +14,7 @@ function Home() {
             <div className="home__meta">
               <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
               <h2 className="home__text pz__10">Hi, I'm Lokesh Singh</h2>
-              <div className="home__text sweet pz__10">I love designing and building websites.</div>
+              <div className="home__text sweet pz__10">I am passionate about designing and developing innovative, user-friendly websites that deliver exceptional experiences</div>
             </div>
           </div>
           <div className="col__2">
