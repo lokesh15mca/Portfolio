@@ -78,16 +78,16 @@ p{
   justify-content: center;
 }
 .col__2 {
-  max-width: 50%;
+  max-width: 65%;
   display: flex;
-  padding: 20px;
+  padding: 9px 20px 20px 20px;
   justify-content: center;
   flex-direction: column;
 }
 .col__3{
   max-width: 33.333333%;
   display: flex;
-  padding: 20px;
+  padding: 9px 20px 20px 20px;
   justify-content: center;
   flex-direction: column;
   margin-top: 20px;
