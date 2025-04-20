@@ -16,8 +16,8 @@ function Contact() {
                         <p className="hire__text white">Let’s create something amazing together!</p>
 
                         {/* <p className="hire__text white">Connect with me via phone:</p> */}
-                        <p className="hire__text white">Feel free to reach out via: 📞 Phone:
-                            <strong>+91-8302880785</strong> or 
+                        <p className="hire__text white">Feel free to reach out via : 📞 Phone: 
+                            <strong> +91-8302880785</strong> or 
 📧 Email{" "}
                             <strong>lokesh15mca@gmail.com</strong>
                         </p>
