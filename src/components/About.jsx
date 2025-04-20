@@ -13,7 +13,10 @@ function About() {
           <div className="col__2">
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
-              <p className="about__text p__color">I am a dedicated Full-Stack Developer with 6 years of experience and extensive expertise in JavaScript, HTML, CSS, Node.js, Express.js, and React. I am eager to contribute to a dynamic and challenging work environment that fosters continuous growth and allows me to deepen my expertise in web development.</p>
+              <p className="about__text p__color">I’m a dedicated Full-Stack Developer with 6 years of experience, specializing in JavaScript, HTML, CSS, React, Node.js, and Express.js. I’m passionate about building scalable, high-performance web applications and continuously improving my craft.
+</p><br />
+                <p className="about__text p__color">I thrive in dynamic, growth-focused environments where I can contribute meaningfully to both front-end and back-end development while expanding my knowledge of modern web technologies.
+</p>
               
               <div className="about__button d__flex align__items__center">
                 <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://drive.google.com/file/d/1wMZIDzelRma-jJRYMGeAkkM0epBczH9A/view?usp=sharing">
