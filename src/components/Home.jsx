@@ -12,9 +12,9 @@ function Home() {
         <div className="container1 row">
           <div className="home__content col__2">
             <div className="home__meta">
-              <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
+              <h1 className="home__text pz__10">WELCOME TO MY DIGITAL SPACE</h1>
               <h2 className="home__text pz__10">Hi, I'm Lokesh Singh</h2>
-              <div className="home__text sweet pz__10">I am passionate about designing and developing innovative, user-friendly websites that deliver exceptional experiences</div>
+              <div className="home__text sweet pz__10">I specialize in designing and building innovative, user-centric web applications that deliver seamless and impactful digital experiences.</div>
             </div>
           </div>
           <div className="col__2">
