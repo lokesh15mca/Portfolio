@@ -11,13 +11,13 @@ function Contact() {
                 {/* <div className="col__2"> */}
                 <div className="contact__box">
                     <div className="contact__meta">
-                        <h1 className="hire__text">Contact me.</h1>
+                    <h1 className="hire__text">Contact me.</h1>
                         <p className="hire__text white">Got an idea or a project in mind?</p>
                         <p className="hire__text white">Let’s create something amazing together!</p>
 
                         {/* <p className="hire__text white">Connect with me via phone:</p> */}
-                        <p className="hire__text white">Feel free to reach out via : 📞 Phone: 
-                            <strong> +91-8302880785</strong> or 
+                        <p className="hire__text white">Feel free to reach out via: 📞 Phone:
+                            <strong>+91-8302880785</strong> or 
 📧 Email{" "}
                             <strong>lokesh15mca@gmail.com</strong>
                         </p>
