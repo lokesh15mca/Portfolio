@@ -18,7 +18,7 @@ const Certificates = () => {
     //   {url:c5}
     // ];
     return <>
-        <div className="project1 component__space" id="Project1">
+        <div className="project1 component__space" id="Certificates">
       <div className="heading"></div>
 
     <div id="imgSlider" >
