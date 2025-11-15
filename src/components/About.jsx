@@ -19,7 +19,7 @@ function About() {
 </p>
               
               <div className="about__button d__flex align__items__center">
-                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://drive.google.com/file/d/1ccOjQSVghyK3iT0rTriSF32yrNZzht4c/view?usp=sharing">
+                <a style={{display: "table-cell"}} target="_blank" rel = "noopener noreferrer" href="https://drive.google.com/file/d/1krcNZTQjltHBON3WG78h9YvVM_wbPDeZ/view?usp=sharing">
                   <button className="about btn pointer">Resume</button>
                 </a>
               </div>
@@ -33,3 +33,4 @@ function About() {
 }
 
 export default About;
+
